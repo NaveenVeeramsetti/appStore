@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-item-list {
+  list-style: none;
+  margin: 20px;
+  margin-top: 10px;
+}
+.add-style {
+  color: #7b8794;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  font-size: 17px;
+}
+.button {
+  color: #2563eb;
+}
